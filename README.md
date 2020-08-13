@@ -1,16 +1,42 @@
 ### Hi there 👋
 
-<!--
-**ctrivinoe/ctrivinoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning front-end and cibersecurity 🔐
+- 💬 Ask me about what u want, if I know, I'll try to help u!
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I love to read and travel
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="ctrivinoe.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ctrivinoe | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ctrivinoe | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ctrivinoe | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ctrivinoe | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
+
+<br/>
+
+### Languages and Tools:
+
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />][#]
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />][#]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />][#]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][#]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][#]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][#]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][#]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][#]
+
+<br/><br/>
+[<img align="left" alt="ctrivinoe | Facebook" width="22px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>][#]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][#]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][#]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][#]
+
+
+
+[website]: https://ctrivinoe.com
+[twitter]: https://twitter.com/ctrivinoe
+[instagram]: https://instagram.com/ctrivinoe
+[linkedin]: https://linkedin.com/in/ctrivinoe
+[facebook]: https://www.facebook.com/ctrivinoe
+[#]: https://github.com/ctrivinoe
